@@ -1,0 +1,9 @@
+.swal-wide{
+    width: 600px;
+}
+
+label{
+    width: 100%;
+    text-align: left;
+    margin: 0%;
+}
